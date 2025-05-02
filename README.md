@@ -1,3 +1,4 @@
+![header-banner](https://github.com/jamshid-elmurodov/jamshid-elmurodov/blob/main/Screenshot%202025-05-02%20at%2017.35.58.png)
 ```
 Fullname:            Jamshid Elmurodov
 Uptime:              16 years, learning 2+ years
