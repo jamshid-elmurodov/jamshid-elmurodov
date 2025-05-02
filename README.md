@@ -5,4 +5,6 @@ IDE:                 VSCode, JetBrains Intellij IDEA, Zed
 Device:              Macbook Air M1 8/256
 Languages:           Java, TypeScript, Rust(beginner)
 Location:            Uzbekistan, Karshi city
+
+I love minimalism and just building.
 ```
