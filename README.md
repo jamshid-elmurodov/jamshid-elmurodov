@@ -6,7 +6,7 @@ Device:              Macbook Air M1
 Languages:           Java, TypeScript, Rust(beginner)
 Location:            Uzbekistan, Karshi city
 Telegram:            @jamshid_elmurodov
-Leetcode:            @jamshid_uzbek
+Leetcode:            [@jamshid_uzbek](https://img.shields.io/badge/LeetCode-Jamshid__uzbek-blue?logo=leetcode)
 
 I love minimalism and just building.
 ```
