@@ -8,4 +8,4 @@ Location:            Uzbekistan, Karshi city
 Telegram:            @jamshid_elmurodov
 I love minimalism and just building.
 ```
-[@jamshid_uzbek](https://img.shields.io/badge/LeetCode-Jamshid__uzbek-blue?logo=leetcode)
+![@jamshid_uzbek](https://img.shields.io/badge/LeetCode-Jamshid__uzbek-blue?logo=leetcode)
