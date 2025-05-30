@@ -5,7 +5,9 @@ IDE:              VSCode, JetBrains Intellij IDEA, Zed
 Device:           Macbook Air M1
 Languages:        Java, TypeScript, Rust(beginner)
 Location:         Uzbekistan, Karshi city
-Telegram:         @jamshid_elmurodov
-Leetcode:         @jamshid_uzbek
-I love minimalism and just building.
 ```
+My favorite quote:
+  Talk is cheap, show me the code
+                              Linus Torvalds
+
+I love minimalism and just building.
