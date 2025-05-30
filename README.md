@@ -6,8 +6,8 @@ Device:           Macbook Air M1
 Languages:        Java, TypeScript, Rust(beginner)
 Location:         Uzbekistan, Karshi city
 ```
-My favorite quote:
-  Talk is cheap, show me the code
+My favorite quote:\n
+  Talk is cheap, show me the code\n
                               Linus Torvalds
 
 I love minimalism and just building.
