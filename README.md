@@ -3,6 +3,6 @@
 Age:              16 | Learning for about 2 years
 IDE:              VSCode, JetBrains Intellij IDEA, Zed
 Device:           Macbook Air M1
-Languages:        Java, TypeScript, Rust(beginner)
+Languages:        Java (❤️), TypeScript (💼), Rust (🧘)
 Location:         Uzbekistan, Karshi city
 ```
